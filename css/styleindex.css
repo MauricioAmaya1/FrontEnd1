@@ -1,0 +1,73 @@
+header{
+  background-image: url(../img/baner.jpg);
+  background-size: cover;
+  padding: 0px;
+  mask-repeat: no-repeat;
+  height: 20%;
+}
+
+.logo-img{
+  text-align: left;
+  padding: 0px;
+}
+.titulo{
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  font-weight: 700;
+  letter-spacing: 5px;
+  height: 5%;
+
+}
+
+.class-footer{
+  color: #ffffff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+footer{
+  background-color: #000000;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  letter-spacing: 5px;
+  height: 5%;
+}
+
+.img-ico{
+  width: 15x;
+  height: 15px;
+}
+
+.sub-nav{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  padding-left: 100;
+  padding-right: 100;
+}
+
+
+.tabla-menu{
+  width: 100%;
+  text-align: center;
+}
+
+.tr-img{
+  height: 200px;
+  width: 100%;
+}
+
+.tr-titulo{
+  height: 50px;
+}
+
+td{
+  width: 50%;
+}

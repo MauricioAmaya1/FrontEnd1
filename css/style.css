@@ -1,0 +1,72 @@
+header{
+  background-color: #E6E6E6;
+  padding: 0px;
+}
+
+.batman-img{
+  text-align: center;
+  padding: 0px;
+}
+p{
+  margin: 0px;
+}
+
+.titulo{
+  background-color: #C4C4C4;
+  color: #005677;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 5px;
+
+}
+
+.white-especial{
+  height:100PX;
+  width: 100%;
+}
+
+
+.sub-titulos{
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  color: #005677;
+  background-color: #C4C4C4;
+  width: 100%;
+  font-weight: 700;
+  letter-spacing: 5px;
+
+}
+
+
+.negrita{
+  font-weight: 700;
+}
+
+.li-sin-estilo{
+  list-style-type: none;
+}
+
+.class-footer{
+  color: #ffffff;
+  font-family: 'Times New Roman';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+footer{
+  background-color: #005677;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.img-ico{
+  width: 15x;
+  height: 15px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
